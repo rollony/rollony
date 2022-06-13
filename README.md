@@ -1,11 +1,11 @@
-# Cloud & DevOps Engineer
+# Cloud & DevOps Engineer [<img alt="alt_text" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hongrae-cho/)
 
 
 ### BOJ Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rollony)](https://solved.ac/rollony)
 
-### My Skills and Certifications
+### Skills and Certifications
 <!--
 [<img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/30142314/173233128-57b9591a-e8d0-4132-8422-941f92276ee3.png" />](https://www.credly.com/badges/6cf52447-3419-4573-a3e8-da53b6124af8/public_url)
 
